@@ -3,4 +3,3 @@ texto = input("Digite um texto: ")
 
 # Exibir o texto digitado
 print("Você digitou:", texto)
-
