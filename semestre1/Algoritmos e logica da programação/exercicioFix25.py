@@ -30,7 +30,8 @@ latas, preco_latas = calcular_preco_latas(area_a_ser_pintada)
 galoes, preco_galoes = calcular_preco_galoes(area_a_ser_pintada)
 latas_misto, galoes_misto, preco_misto = calcular_preco_misto(area_a_ser_pintada)
 
-print("RA 1051392411012, Nome: João Rafael Sturion Mantoanelli, Turma I DSM")
+
 print(f"a) Comprar apenas latas de 18 litros: {latas} latas, preço total R$ {preco_latas:.2f}")
 print(f"b) Comprar apenas galões de 3,6 litros: {galoes} galões, preço total R$ {preco_galoes:.2f}")
 print(f"c) Misturar latas e galões: {latas_misto} latas e {galoes_misto} galões, preço total R$ {preco_misto:.2f}")
+print("RA 1051392411012, Nome: João Rafael Sturion Mantoanelli, Turma I DSM")
